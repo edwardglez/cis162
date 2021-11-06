@@ -1,0 +1,26 @@
+* {
+    font-family: "Helvetica Neue";
+}
+body {
+    background: crimson;
+}
+
+nav {
+    display: flex;
+}
+
+header {
+    background: white;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+a {
+    color: white;
+}
+
+section {
+    background: white;
+}
